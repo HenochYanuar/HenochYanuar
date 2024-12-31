@@ -29,7 +29,7 @@ I love exploring new technologies and solving complex problems by closing my eye
 ## 📫 Let's Connect
 - **Email**: [henochyanuar13@gmail.com](mailto:henochyanuar13@gmail.com)
 - **LinkedIn**: [Henoch Yanuar Ari Swasono](https://www.linkedin.com/in/henoch-yanuar-ari-swasono-8389a023b/)
-- **Web Profile**: [My Profile]](https://henochyanuar.github.io/)
+- **Web Profile**: [My Profile](https://henochyanuar.github.io/)
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
