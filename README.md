@@ -20,9 +20,9 @@ Hi! My name is **Henoch Yanuar Ari Swasono**, a back-end developer passionate ab
 ---
 
 ## 🚀 Fun Fact
-I love exploring new technologies and solving complex problems by closing my eyes while thinking of the best solution in my imagination. This keeps my mind sharp and my code cleaner! 😂 awokawokawok
+I like to explore new technologies and solve complex problems by closing my eyes while thinking of the best solution in my imagination, sometimes even while lying down. This keeps my mind sharp and my code cleaner! 😂 awokawokawok
 
-![Envision](https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif?cid=790b7611k33qergg5fnt11zlapryqtd11gy7gmtd8gfh3jok&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Envision](https://media.giphy.com/media/iOOEpskxaVZqG6ZK6m/giphy.gif?cid=ecf05e47s4smwaektotlpxq0z202axh9x1c4tq6nfslh009m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
