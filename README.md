@@ -1,9 +1,12 @@
 # Hi, I'm Henoch Yanuar Ari Swasono! 👋
 
-![Hello World](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47a8wgcebaem4dp9muv02t8n79lf4jgm61qbolo4mg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" alt="Hello World" style="width:300px;">
 
 ## 👨‍💻 About Me
-Hi! My name is **Henoch Yanuar Ari Swasono**, a back-end developer passionate about programming, especially in web application development and technology-driven solutions. I enjoy building efficient and scalable systems that make a difference.
+Hi! My name is **Henoch Yanuar Ari Swasono**, and I am a back-end developer passionate about programming, especially in web application development and technology-driven solutions. I enjoy building efficient and scalable systems that make a difference.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=15E7E7&background=000000&center=true&vCenter=true&width=435&lines=Back-End+Developer;Loves+Coding+%26+Problem+Solving;Building+Web+Applications;Always+Learning+New+Things!+🚀" alt="Typing Animation">
+</p>
 
 ---
 
