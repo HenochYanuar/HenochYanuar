@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me
 Hi! My name is **Henoch Yanuar Ari Swasono**, and I am a back-end developer passionate about programming, especially in web application development and technology-driven solutions. I enjoy building efficient and scalable systems that make a difference.
-<!-- <p align="center"> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C0&center=true&vCenter=true&width=435&lines=Love+Coding+%26+Problem+Solving;Always+Learning+New+Things!+%F0%9F%9A%80;I'm+an+Owl)](https://git.io/typing-svg)
-<!-- </p> -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C0&center=true&vCenter=true&width=435&lines=Love+Coding+%26+Problem+Solving;Always+Learning+New+Things!+%F0%9F%9A%80;I'm+an+Owl" alt="Typing SVG" /></a>
+</p>
 
 ---
 
